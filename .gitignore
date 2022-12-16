@@ -1,0 +1,11 @@
+.idea/.idea.DiningHall/.idea/encodings.xml
+.idea/.idea.DiningHall/.idea/indexLayout.xml
+*.xml
+.bin
+.obj
+.idea
+./obj
+Army/obj
+Army/bin
+Behavioral-Design-Patterns/obj
+Behavioral-Design-Patterns/bin
